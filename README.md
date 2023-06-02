@@ -1,2 +1,2 @@
-# circular-text-using-html-css
+# Circular Text using HTML & CSS
 Created with CodeSandbox
